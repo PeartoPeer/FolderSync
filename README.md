@@ -13,4 +13,6 @@ This program by default will remember your last choise of folders and this progr
 
 If you want to see how many setting are tweakable check config.conf or in the program click on the "More Options" button.
 
+IF YOU HAVE ANY CRASH EXPERIENCE WE RECOMMEND RUNNING THE PROGRAM AS ADMIN!
+
 LAST UPDATE: 2020.04.13
